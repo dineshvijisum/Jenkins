@@ -3,5 +3,6 @@ public class JenkinsSample{
     System.out.println("Hellow");
     System.out.println("Good");
     System.out.println("how to do doing googhnnd");
+    System.out.println("how to do doing googhnnd");
   }
 }
